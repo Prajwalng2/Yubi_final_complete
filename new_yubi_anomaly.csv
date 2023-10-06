@@ -1,0 +1,51 @@
+Unnamed: 0,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Company_anomaly_scores,Valuation ($B)_anomaly_scores,Date Joined_anomaly_scores,Country_anomaly_scores,City_anomaly_scores,Industry_anomaly_scores,Select Investors_anomaly_scores
+0,Bytedance,$140,4/7/2017,China,Beijing,Artificial intelligence,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group",1,1,1,1,1,1,1
+1,SpaceX,$100.3,12/1/2012,United States,Hawthorne,Other,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures",1,1,1,1,1,1,1
+2,Stripe,$95,1/23/2014,United States,San Francisco,Fintech,"Khosla Ventures, LowercaseCapital, capitalG",1,1,1,1,1,1,1
+3,Klarna,$45.6,12/12/2011,Sweden,Stockholm,Fintech,"Institutional Venture Partners, Sequoia Capital, General Atlantic",1,-1,1,1,1,1,1
+4,Canva,$40,1/8/2018,Australia,Surry Hills,Internet software & services,"Sequoia Capital China, Blackbird Ventures, Matrix Partners",1,-1,1,1,-1,1,1
+5,Instacart,$39,12/30/2014,United States,San Francisco,"Supply chain, logistics, & delivery","Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund",1,1,1,1,1,-1,-1
+6,Databricks,$38,2/5/2019,United States,San Francisco,Data management & analytics,"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",1,1,1,1,1,1,1
+7,Revolut,$33,4/26/2018,United Kingdom,London,Fintech,"index Ventures, DST Global, Ribbit Capital",1,1,1,1,1,1,1
+8,Nubank,$30,3/1/2018,Brazil,Sao Paulo,Fintech,"Sequoia Capital, Redpoint e.ventures, Kaszek Ventures",1,1,1,1,1,1,1
+9,Epic Games,$28.7,10/26/2018,United States,Cary,Other,"Tencent Holdings, KKR, Smash Ventures",1,1,1,1,1,1,1
+10,Chime,$25,3/5/2019,United States,San Francisco,Fintech,"Forerunner Ventures, Crosslink Capital, Homebrew",1,1,1,1,1,1,1
+11,FTX,$25,7/20/2021,Hong Kong,,Fintech,"Sequoia Capital, Thoma Bravo, Softbank",1,1,1,-1,1,1,1
+12,BYJU's,$21,7/25/2017,India,Bengaluru,Edtech,"Tencent Holdings, Lightspeed India Partners, Sequoia Capital India",1,1,1,1,1,1,1
+13,Xiaohongshu,$20,3/31/2016,China,Shanghai,E-commerce & direct-to-consumer,"GGV Capital, ZhenFund, Tencent",1,1,1,1,1,1,1
+14,J&T Express,$20,4/7/2021,Indonesia,Jakarta,"Supply chain, logistics, & delivery","Hillhouse Capital Management, Boyu Capital, Sequoia Capital China",1,1,1,-1,1,-1,1
+15,Fanatics,$18,6/6/2012,United States,Jacksonville,E-commerce & direct-to-consumer,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",1,1,1,1,1,1,1
+16,Yuanfudao,$15.5,5/31/2017,China,Beijing,Edtech,"Tencent Holdings, Warbug Pincus, IDG Capital",1,1,1,1,1,1,1
+17,DJI Innovations,$15,1/23/2015,China,Shenzhen,Hardware,"Accel Partners, Sequoia Capital",1,1,1,1,1,1,1
+18,SHEIN,$15,7/3/2018,China,Shenzhen,E-commerce & direct-to-consumer,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners",1,1,1,1,1,1,1
+19,Checkout.com,$15,5/2/2019,United Kingdom,London,Fintech,"Tiger Global Management, Insight Partners, DST Global",-1,1,1,1,1,1,1
+20,goPuff,$15,10/8/2020,United States,Philadelphia,E-commerce & direct-to-consumer,"Accel, Softbank Group, Anthos Capital",1,1,1,1,1,1,1
+21,Plaid Technologies,$13.4,12/11/2018,United States,San Francisco,Fintech,"New Enterprise Associates, Spar Capital, Index Ventures",-1,1,1,1,1,1,1
+22,Grammarly,$13,10/10/2019,United States,San Francisco,Internet software & services,"General Catalyst, Institutional Venture Partners, Breyer Capital",1,1,1,1,1,1,1
+23,Devoted Health,$12.6,10/16/2018,United States,Waltham,Health,"Andreessen Horowitz, F-Prime Capital, Venrock",1,1,-1,1,1,1,1
+24,Faire,$12.4,10/30/2019,United States,San Francisco,Artificial intelligence,"Khosla Ventures, Forerunner Ventures, Sequoia Capital",1,1,1,1,1,1,1
+25,Brex,$12.3,10/5/2018,United States,San Francisco,Fintech,"DST Global, Ribbit Capital, Greenoaks Capital Management",1,1,1,1,1,1,1
+26,SenseTime,$12,7/11/2017,China,Shanghai,Artificial intelligence,"Star VC, IDG Capital, Infore Capital, Alibaba Group",1,1,1,1,1,1,-1
+27,JUUL Labs,$12,12/20/2017,United States,San Francisco,Consumer & retail,Tiger Global Management,1,1,1,1,1,1,1
+28,Bitmain Technologies,$12,7/6/2018,China,Beijing,Hardware,"Coatue Management, Sequoia Capital China, IDG Capital",1,1,1,1,1,1,1
+29,Biosplice Therapeutics,$12,8/6/2018,United States,San Diego,Health,"Vickers Venture Partners, IKEA GreenTech",1,1,1,1,1,1,1
+30,GoodLeap,$12,10/13/2021,United States,Roseville,Internet software & services,"New Enterprise Associates, BDT Capital Partners, Davidson Kempner Capital Management",1,1,1,1,1,1,1
+31,ZongMu Technology,$11.4,6/3/2021,China,Shanghai,Auto & transportation,"LTW Capital, Legend Capital, Qualcomm Ventures",1,1,1,1,1,1,1
+32,Global Switch,$11.1,12/22/2016,United Kingdom,London,Hardware,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",-1,1,-1,1,1,1,-1
+33,Celonis,$11,6/26/2018,Germany,Munich,Data management & analytics,"Accel, 83North",1,1,1,1,1,1,1
+34,Weilong,$10.88,5/8/2021,China,Luohe,Consumer & retail,"Tencent Holdings, Hillhouse Capital Management, Yunfeng Capital",1,-1,1,1,1,1,1
+35,Lalamove,$10,2/21/2019,Hong Kong,Cheung Sha Wan,"Supply chain, logistics, & delivery","MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",1,1,1,-1,-1,-1,1
+36,Ripple,$10,12/20/2019,United States,San Francisco,Fintech,"IDG Capital, Venture51, Lightspeed Venture Partners",1,1,1,1,1,1,1
+37,Figma,$10,4/30/2020,United States,San Francisco,Internet software & services,"Index Ventures, Greylock Partners, Kleiner Perkins Caufield & Byers",1,1,1,1,1,1,1
+38,Gusto,$10,12/18/2015,United States,San Francisco,Fintech,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",1,1,-1,1,1,1,1
+39,reddit,$10,7/31/2017,United States,San Francisco,Internet software & services,"Y Combinator, Sequoia Capital, Coatue Management",1,1,1,1,1,1,1
+40,Talkdesk,$10,10/3/2018,United States,San Francisco,Internet software & services,"DJF, Salesforce Ventures, Storm Ventures",1,1,1,1,1,1,1
+41,Notion Labs,$10,4/1/2020,United States,San Francisco,Internet software & services,"Index Ventures, Draft Ventures, Felicis Ventures",1,1,1,1,1,1,1
+42,Thrasio,$10,7/15/2020,United States,Walpole,Other,"Upper90, RiverPark Ventures, Advent International",1,1,1,1,1,1,1
+43,Digital Currency Group,$10,11/1/2021,United States,New York,Finttech,"Ribbit Capital, capitalG, Softbank Group",1,1,1,1,-1,1,1
+44,OutSystems,$9.5,6/5/2018,United States,Boston,Internet software & services,"KKR, ES Ventures, North Bridge Growth Equity",1,1,1,1,1,1,1
+45,ServiceTitan,$9.5,11/14/2018,United States,Glendale,Internet software & services,"Bessemer Venture Partners, ICONIQ Capital, Battery Ventures",1,1,1,1,1,1,1
+46,HEYTEA,$9.28,7/1/2019,China,Shenzhen,Other,"Sequoia Capital China, Tencent Investment, BA Capital",1,1,1,1,1,1,1
+47,N26,$9.23,1/10/2019,Germany,Berlin,Fintech,"Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures",1,1,1,1,1,1,1
+48,Klaviyo,$9.2,11/17/2020,United States,Boston,Internet software & services,"Summit Partners, Accel, Astral Capital",1,1,1,1,1,1,1
+49,Northvolt,$9.08,6/12/2019,Sweden,Stockholm,Other,"Vattenfall, Volkswagen Group, Goldman Sachs",1,1,1,1,1,1,1
